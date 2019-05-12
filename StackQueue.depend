@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1553405058 source:f:\amal\semester_2\std\tp mod 6\stackqueue\main.cpp
+	<iostream>
+	"sq.h"
+	"sq.cpp"
+
+1553384245 f:\amal\semester_2\std\tp mod 6\stackqueue\sq.h
+	<iostream>
+
+1553406379 f:\amal\semester_2\std\tp mod 6\stackqueue\sq.cpp
+	"sq.h"
+
+1553429949 source:e:\belajar std\tp mod 6.0\stack\stackqueue\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+
+1553384245 e:\belajar std\tp mod 6.0\stack\stackqueue\sq.h
+	<iostream>
+
+1553426027 e:\belajar std\tp mod 6.0\stack\stackqueue\sq.cpp
+	"sq.h"
+
+1553429390 e:\belajar std\tp mod 6.0\stack\stackqueue\stack.h
+	<iostream>
+
+1553429958 e:\belajar std\tp mod 6.0\stack\stackqueue\stack.cpp
+	"stack.h"
+
